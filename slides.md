@@ -113,7 +113,7 @@ And I certainly dont wanna be the person who is gonna disturb the spirit of a pr
 
 ### Reactions
 
-<img src="./img/reactions.png" width="100%" class="center-img" style="background-color: rgba(224, 224, 235, 0.5);">
+<img src="./img/reactions.png" width="100%" class="center-img" style="background-color: rgba(224, 224, 235, 0.7);">
 
 <!--
 So I did what any sane person would do and asked the internet.
@@ -245,9 +245,10 @@ At some point I had to give "No its not gay, dont guess it" for the guessers - b
 -->
 ---
 
-#### A5 is to big
+### A5 is to big
 
-*Gif*
+![bg h:100%](img/wobble-flyer.gif)
+
 <!--
 While the size is easy to read, the size and paper densitiy means the flyer is super wobbely. It gets destroyed super quick.
 
@@ -257,7 +258,7 @@ They are still great infomaterial, but if ya& wanna bring flyers to a protest, p
 
 #### Magnetic Buttons are a great stimming toy
 
-*Gif*
+![bg](img/stimming-toy.gif)
 
 <!--
 If ya& never had a magnetic button, I absolutely can suggest getting one ... or a few hundred of them. They are a great stimming toy. Honestly, I gave more of them away as toy, than as a "here is a plural button".
@@ -268,7 +269,7 @@ If ya& never had a magnetic button, I absolutely can suggest getting one ... or 
 
 #### Cologne
 
-<img src="./img/csds/cologne-csd.png" class="center-img" width="65%" style="background-color: rgba(224, 224, 235, 0.2);">
+<img src="./img/csds/cologne-csd.png" class="center-img" width="65%" style="background-color: rgba(100, 234, 5, 0.7);">
 
 <!--
 With all my material settled, the plans made, it was time to start goin to a pride.
@@ -365,7 +366,7 @@ It can't be denied that Jemar's tactic of giving out stickers really works wonde
 
 ---
 
-<img src="./img/memes/spoon-development.png" height="100%" style="background-color: rgba(224, 224, 235, 0.5);">
+<img src="./img/memes/spoon-development.png" height="100%" style="background-color: rgba(224, 224, 235, 0.7);">
 
 <!--
 To make my talk more scientific, here is a graph.
@@ -454,7 +455,7 @@ Soap Bubbles!
 ya& saw the tunnel on the last picture.
 I prepared about 100 small soap bubble dispenser and gave them arround to various peeps, with the instruction to blow them out when we get under the bridge. 
 
-It was awesome. Peeps love soap bubbles, and its another great icebreaker, and it just looks cool when 100 peeps cast rainbow balls. Sadly I dont have a video of it, but I'm set to make one next time.
+It was awesome. Peeps love soap bubbles, and its another great icebreaker, and it just looks cool when 100 peeps cast irredescent balls. Sadly I dont have a video of it, but I'm set to make one next time.
 
 So, after ya& got enough stickers - and a flag - I suggest ya& invest into bubbles.
 
@@ -826,7 +827,7 @@ Obviously I dont wanna place all the responsibility on the individual. If ya& pl
 
 ### No Accessibility without visibility
 
-<img src="./img/memes/just-try-harder.png" class="center-img" height="55%">
+<img src="./img/memes/just-try-harder.png" class="center-img" height="55%" style="margin-top:-20%">
 
 <!-- 
 It might be a big surprise, but if people in need can't find ways to access a pride, they won't come.

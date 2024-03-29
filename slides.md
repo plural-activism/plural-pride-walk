@@ -14,14 +14,14 @@ paginate: true
 <!--
 Hello and welcome to my panel.
 
-Today I wanna take ya to a journy of what I have done last summer. Mainly visiting various prides and spreading plural awareness. The subtitle already implies that we will tackle this journey in three parts.
+Today I wanna take ya& to a journy of what I have done last summer. Mainly visiting various prides and spreading plural awareness. The subtitle already implies that we will tackle this journey in three parts.
 
 The first part will be about what I have done, why I have done it, and what i got from it.
 Theory will be the main focus of the second part, as to understand more fundamentaly what happened here.
 And in the third part, I will share some insights and tipps for those who want to follow my example.
 
 ---
-*Notes* Have ya been on a pride before?
+*Notes* Have ya& been on a pride before?
 - Yes, once
 - Yes, often
 - No, never
@@ -85,11 +85,11 @@ All files of this talk, including some bonus content is publicly available on th
 <!-- In this part I'm describing how this whole journey started, what I have planed, what actually worked out, who I met, how it felt like and what I learned -->
 ---
 
-## Would ya bring a plural flag to a pridewalk?
+## Would ya& bring a plural flag to a pridewalk?
 
 <!--
 This whole journey started with a simple question:
-Would ya bring a plural flag to a pride walk?
+Would ya& bring a plural flag to a pride walk?
 
 I really liked the idea, but I had some doubts if I should do it.
 -->
@@ -119,7 +119,7 @@ And I certainly dont wanna be the person who is gonna disturb the spirit of a pr
 So I did what any sane person would do and asked the internet.
 Well mostly, mostly friends, but also a few communities.
 
-Overall I got mixed reactions. The majority thought bringing a Plural Flag would be fine. Interestingly, the further away peeps were from the LGBTQ+ community and prides, the more likely they were against the idea, while peeps who would frequent Prides really encouraged me to do it. "Ya should totally do it."
+Overall I got mixed reactions. The majority thought bringing a Plural Flag would be fine. Interestingly, the further away peeps were from the LGBTQ+ community and prides, the more likely they were against the idea, while peeps who would frequent Prides really encouraged me to do it. "ya& should totally do it."
 
 I got some interesting arguments about the spirit and idea of a pride, and I had some good discusions. Someone feared that if everyone would focus on their own identity and flag, it would stop solidarity in a form of neoliberalism. A good counter to that would be that we still gather up to fight for each other rights, but a argument I haven't heard before for sure.
 
@@ -180,7 +180,7 @@ Then I thought ... huh maybe peeps would like to have some stickers (not picture
 So I made one. From there it escalated a bit. In the end I had a few different types of buttons, a lot of english and german flyers and stickers (which are not on the picture ... sorry). With that, I was ready for the next step.
 
 ---
-*Notes* What would ya like to get on a pride?
+*Notes* What would ya& like to get on a pride?
 -->
 ---
 
@@ -219,7 +219,7 @@ The process of the flyer design was interesting. I limit myself to A5 and at lea
 
 I have gone through multiple iterations and annoyed multiple peeps for feedback.
 
-The end-product isn't perfect. I still think I did a pretty good job in giving an overview. I was even able to smuggle in some anti-medicalist views. If ya feel like this flyer is something ya want to share, it is also in the Github Repository.
+The end-product isn't perfect. I still think I did a pretty good job in giving an overview. I was even able to smuggle in some anti-medicalist views. If ya& feel like this flyer is something ya& want to share, it is also in the Github Repository.
 -->
 ---
 
@@ -251,7 +251,7 @@ At some point I had to give "No its not gay, dont guess it" for the guessers - b
 <!--
 While the size is easy to read, the size and paper densitiy means the flyer is super wobbely. It gets destroyed super quick.
 
-They are still great infomaterial, but if ya wanna bring flyers to a protest, postcard is really the max size.
+They are still great infomaterial, but if ya& wanna bring flyers to a protest, postcard is really the max size.
 -->
 ---
 
@@ -260,7 +260,7 @@ They are still great infomaterial, but if ya wanna bring flyers to a protest, po
 *Gif*
 
 <!--
-If ya never had a magnetic button, I absolutely can suggest getting one ... or a few hundred of them. They are a great stimming toy. Honestly, I gave more of them away as toy, than as a "here is a plural button".
+If ya& never had a magnetic button, I absolutely can suggest getting one ... or a few hundred of them. They are a great stimming toy. Honestly, I gave more of them away as toy, than as a "here is a plural button".
 
 *Click*
 -->
@@ -300,7 +300,7 @@ At some point we decided to join the parade. It was fun, I have to admit. We dan
 ---
 ![bg](img/memes/queerjoyquote.png)
 <!--
-I understand that there are folks that would rather see the focus "political messages" than to party. I think they are missing the point. We as plurals as well as LGBTQ+ peeps live in a world in there we still have to apologize for our existance. And that is the best case. In this world, celebrating yaself, being happy with who ya are and enjoying things that others can do without bounderies, is an act of resistance.
+I understand that there are folks that would rather see the focus "political messages" than to party. I think they are missing the point. We as plurals as well as LGBTQ+ peeps live in a world in there we still have to apologize for our existance. And that is the best case. In this world, celebrating ya&self, being happy with who ya& are and enjoying things that others can do without bounderies, is an act of resistance.
 
 That being said, I wasn't really able to give away any of my stuff. Turns out that in an ocean of colours, a single Plural flag just doesn't get noticed.
 -->
@@ -313,7 +313,7 @@ That being said, I wasn't really able to give away any of my stuff. Turns out th
 <!-- 
 The switcheroo.
 
-After quite some dancing and protesting and trying to get something to drink on a sunday in cologne i was done. I wasn't planing at all to switch during the pride. We hadn't any plans for it if it happens. I mean who of my headmates would be crazy enough to front at the Pride in cologne. I had no chance to control the switch - so brace yaself for my best Jemar impression: -->
+After quite some dancing and protesting and trying to get something to drink on a sunday in cologne i was done. I wasn't planing at all to switch during the pride. We hadn't any plans for it if it happens. I mean who of my headmates would be crazy enough to front at the Pride in cologne. I had no chance to control the switch - so brace ya&self for my best Jemar impression: -->
 ---
 
 ## Jemar arrives
@@ -338,7 +338,7 @@ Jemar tested it further, and ended up with giving away many stickers and flyers.
 <!-- 
 So, what did we learn here?
 
-First, Stickers. Peeps love Stickers. They open up conversation. They are sticky representation. If ya invest into one thing, put the money into stickers. Though, a flag is also nice.
+First, Stickers. Peeps love Stickers. They open up conversation. They are sticky representation. If ya& invest into one thing, put the money into stickers. Though, a flag is also nice.
 
 The second thing is that a pride is a very loud, bright place. That isn't only an problem for peeps with sensory issues, but it also means basically everyones attention is very narrow, because there is just too much. It can be still a fun thing, but it is something to consider.
 
@@ -433,7 +433,7 @@ I'm glad I was there.
 Hometown on the other hand was very different.
 After I learned a lot, and gave alot of my Plural Stuff, I was eager to go to the pride in my hometown.
 
-I also want to use this slide to introduce some parciluar stuff of german pride walks. First, they are usually called "CSD" as in Christopher Street Day. "Who is Christopher?" ya might ask. Its the street in which the Stonewall riots took place. Why they reference that street and not the inn in germany? I don't know. I guess Germans just love streets.
+I also want to use this slide to introduce some parciluar stuff of german pride walks. First, they are usually called "CSD" as in Christopher Street Day. "Who is Christopher?" ya& might ask. Its the street in which the Stonewall riots took place. Why they reference that street and not the inn in germany? I don't know. I guess Germans just love streets.
 
 Another thing I noticed, all Prides were pretty liberal. We got furries, a few different type of kinks, aces and allies, basically anyone who felt brave enough to go on a pride was welcome there.
 
@@ -451,12 +451,12 @@ Then it was time for my new ultimate weapon:
 <!-- 
 Soap Bubbles!
 
-Ya saw the tunnel on the last picture.
+ya& saw the tunnel on the last picture.
 I prepared about 100 small soap bubble dispenser and gave them arround to various peeps, with the instruction to blow them out when we get under the bridge. 
 
 It was awesome. Peeps love soap bubbles, and its another great icebreaker, and it just looks cool when 100 peeps cast rainbow balls. Sadly I dont have a video of it, but I'm set to make one next time.
 
-So, after ya got enough stickers - and a flag - I suggest ya invest into bubbles.
+So, after ya& got enough stickers - and a flag - I suggest ya& invest into bubbles.
 
 Overall, great time, its not a big pride in my hometown, or without flaws, but certainly one I enjoyed.
 -->
@@ -468,7 +468,7 @@ Overall, great time, its not a big pride in my hometown, or without flaws, but c
 
 <!--
 Wuppertal was really just unrevalling.
-I met the friends I made, we sat together, enjoying the last days of summer and promising each other to be there next year. I don't to say about it, other than all of ya should take the Schwebebahn at least once in ya life.
+I met the friends I made, we sat together, enjoying the last days of summer and promising each other to be there next year. I don't to say about it, other than all of ya& should take the Schwebebahn at least once in ya& life.
 -->
 ---
 
@@ -477,13 +477,13 @@ I met the friends I made, we sat together, enjoying the last days of summer and 
 <!-- 
 What are things I wanna highlight after seven prides?
 
-For one. They are fun if ya let them. It is totally acceptable to party on a Pride, there will be always a crowd available for it and I think its one of the safest and accesiable spaces to try to dance.
+For one. They are fun if ya& let them. It is totally acceptable to party on a Pride, there will be always a crowd available for it and I think its one of the safest and accesiable spaces to try to dance.
 
 Then. Noone was hostile about me bringing a Plural Flag to the pride. At worst they didn't care, but most actually wanted to know more. The "worst" reaction I got after someone reading the flyer was "Isn't that hard" - yea sometimes, I guess. Quite a few dropped "Isn't that DID" or "Hey, thats the thing in Moonknight" - I understand that peeps need to make connection from what they know, and its sure not the worst reaction - but I think I gonna have to create more representation for our endogenic friends this year.
 
 A pride absolutely not the best place to teach them about the intricacies bout the Plural Life - and the overstimmulation made it very hard to pull out anything coherent to me - but its still a place where peeps can learn somethin new - me included.
 
-What it is a good place for is to create contacts into the local alternative scene though. They are often very tightly knitted together - so if ya new to a city and ya want to learn bout the interesting peeps n places, go to a Pride.
+What it is a good place for is to create contacts into the local alternative scene though. They are often very tightly knitted together - so if ya& new to a city and ya& want to learn bout the interesting peeps n places, go to a Pride.
 
 When it comes how to prepare for a pride, or prepare *a* pride - thats what is part 3 goin to be about.
  -->
@@ -543,15 +543,15 @@ Its the Book the whole idea of "Performative Gender" is based on...
 <img src="./img/memes/hating-freud.png" alt="hating sigmundfreud is something butler surely increased" height="100%">
 
 <!--
-It really made me dislike Freud more than I already did. Butler really called out his BS, and that is the point. Everytime someone tries to come up with male - female boxes - they might seem fine at first glance. Once ya look into them closely, they break. Always. Gender isn't somethin godsend, or logical, its just a story - a performance, we tell each other until it feels true. Its a meme.
+It really made me dislike Freud more than I already did. Butler really called out his BS, and that is the point. Everytime someone tries to come up with male - female boxes - they might seem fine at first glance. Once ya& look into them closely, they break. Always. Gender isn't somethin godsend, or logical, its just a story - a performance, we tell each other until it feels true. Its a meme.
 
 ---
 Notes:
-Which psychologist do ya dislike the most:
+Which psychologist do ya& dislike the most:
 - Freud
 - Jung
 - van der Hart
-- TODO
+- Francesca Gino
 - Someone Else 
 -->
 ---
@@ -559,7 +559,7 @@ Which psychologist do ya dislike the most:
 <img src="./img/memes/butler-perform-queerness.png" alt="Butler has the fight." height="100%">
 
 <!-- 
-And there is nothing wrong with memes. Some of ya might have even noticed from this presentation, I really like them. The problem starts when ya limit everyone to only use one of two memes. Imagine how borring the internet would be. This is were Queerness, according to Butler, starts. Its not just a different meme, its the act of creating and living it.
+And there is nothing wrong with memes. Some of ya& might have even noticed from this presentation, I really like them. The problem starts when ya& limit everyone to only use one of two memes. Imagine how borring the internet would be. This is were Queerness, according to Butler, starts. Its not just a different meme, its the act of creating and living it.
 
 It is questioning why there would be only one Meme to choose in the first place.
 -->
@@ -571,7 +571,7 @@ It is questioning why there would be only one Meme to choose in the first place.
 <!-- 
 Butler examines this whole topic from a feminist perspective, and focusses on Gender. But she is very clear that these mechanisms are valid for Identity as whole and there is actually no strict line between Gender and Identity.
 
-Being Plural, living as a Plural system, is very queer as such. We got the fictition of "one mind, one body" drilled into us every day. Defing this notion means to defy the the power structures build upon it. Plurality is a queer afair. And a pretty good meme if ya ask me.
+Being Plural, living as a Plural system, is very queer as such. We got the fictition of "one mind, one body" drilled into us every day. Defing this notion means to defy the the power structures build upon it. Plurality is a queer afair. And a pretty good meme if ya& ask me.
 -->
 ---
 
@@ -582,7 +582,7 @@ Being Plural, living as a Plural system, is very queer as such. We got the ficti
 <!-- 
 A thing I only really realized once I started my research was the fact that Homosexuality was a diagnosis. I knew it, but I never really put it together. Sadly, the story in the tweet isn't true, but sweden abolished the diagnosis in 1979 after protests. Its a good story though.
 
-Nonetheless, gays could have hypothetically got written sick for being to gay to work, here in Germany until 1992. Thats pretty gay if ya ask me. But the point is that the LGBTQ+ movement was able to de-medicalize their existence. The ICD-11 isn't perfect when it comes to Trans peeps. It sure has a relatively nuanced approach to the matter of identity though, one that we as plural community can only dream of.
+Nonetheless, gays could have hypothetically got written sick for being to gay to work, here in Germany until 1992. Thats pretty gay if ya& ask me. But the point is that the LGBTQ+ movement was able to de-medicalize their existence. The ICD-11 isn't perfect when it comes to Trans peeps. It sure has a relatively nuanced approach to the matter of identity though, one that we as plural community can only dream of.
 
 That is why we as Plural Community should strive to learn from the LGBTQ+ movement. They had the same struggle we are facing right now, and they were pretty succesful in that.
 -->
@@ -619,13 +619,13 @@ So, for the purpose of this talk I mainly want to emphasize the following:
 <!--
 Not all plural systems are disordered. So we have to introduce another concept to bind things together.
 
-Keen eyes might have spotted that I called plurality part of the neuro-diversity movement in the flyer. Before ya can critize me for that, we have to establish what neuro-diversity even means.
+Keen eyes might have spotted that I called plurality part of the neuro-diversity movement in the flyer. Before ya& can critize me for that, we have to establish what neuro-diversity even means.
 
 Which is actually somewhat difficult. We know the term was coined in 1997 by Blume who wrote about online spices. Later Judy Springer picked it up, mainly for the autism community which is still the main user. Then in 2014 Nick Walter tried to properly define it, though its still pretty vague and contested.
 
 For our case, we can define neuro-diverse as the fact that there is no normal brain, each of them is unique. Then, neuro-divergency are types of brains that got stamped by soceity as clinical ill. The Neurodiversity movement tries to break open those solid categories an argues that not all deviance from "normal behaviour" is clinical or bad.
 
-Did ya noticed that?
+Did ya& noticed that?
 -->
 
 ---
@@ -758,7 +758,7 @@ So after we got our theory out of the way ... what did we learn from the protest
 #### Manage your Energy
 
 <div class="center punk-text">
-Ya& cannot advocate for others, if none is advocating for ya&self.
+ya& cannot advocate for others, if none is advocating for ya&self.
 </div>
 
 ![bg](img/spoonies.png)
@@ -770,9 +770,9 @@ I mentioned it multiple times already, I was extreme lucky to be able to partici
 
 I had to learn to where and when to go, and I had to accept limits. I wish I could I could have gone everywhere. So for all who need it
 
-Its okay to skip a pride if ya not feeling well.
+Its okay to skip a pride if ya& not feeling well.
 
-Learn from our example. Ya wont be able to advocate for anyone if ya burned-out.
+Learn from our example. ya& wont be able to advocate for anyone if ya& burned-out.
 -->
 ---
 
@@ -786,11 +786,11 @@ They might have resources ya& need.
 <!--
 Thats another important point. Making contact with other peeps on a Pride is really useful. It gives us a support network. Bringing friends there is also great. I can totally understand the fear of going to one alone, especially in areas that seem less safe.
 
-Others can safeguard ya, when ya switching for example. They can enhance an experince from nice to dope. And there is a truth in "strength in numbers".
+Others can safeguard ya&, when ya& switching for example. They can enhance an experince from nice to dope. And there is a truth in "strength in numbers".
 
 The support network doesn't stop at a pride though. Havin a access to a button machine from the getgo would have allowed me to make so much more - and better - buttons. There were infos i only got through contacts cause they never went publics. There might be locals that give tips bout where to go before or after a pride.
 
-I really want ya all to get to a pride. And I want ya go there together.
+I really want ya& all to get to a pride. And I want ya& go there together.
 -->
 ---
 
@@ -811,7 +811,7 @@ How to deal with sensory issues? Prides are loud and bright. What to do in case 
 Plan the route up front. Get an idea of there is goin, what would be suitable exists in case of emergency? How to get home in case of emergency?
 What safeguards do we need? What do we need to bring? How to communicate if we go non-verbal?
 
-I absolutely encourage ya to write this stuff down. Not just for the random headmate that switches in and has no idea whats goin on, but also for the time ya super stressed and can't get a clear thought. So ya have it in front of ya.
+I absolutely encourage ya& to write this stuff down. Not just for the random headmate that switches in and has no idea whats goin on, but also for the time ya& super stressed and can't get a clear thought. So ya& have it in front of ya&.
 
 Im a improviser, but havin a plan upfront helped to ease out a lot of stress.
 -->
@@ -820,7 +820,7 @@ Im a improviser, but havin a plan upfront helped to ease out a lot of stress.
 ## How to make ya pride accessible?
 
 <!--
-Obviously I dont wanna place all the responsibility on the individual. If ya planing to organize a pride, or any other protest for that matter, the following is for ya.
+Obviously I dont wanna place all the responsibility on the individual. If ya& planing to organize a pride, or any other protest for that matter, the following is for ya&.
 -->
 ---
 
@@ -834,7 +834,7 @@ Great example of this was on the pride in $hometown. They had a sign-language tr
 
 This meme is a bit tricky. A lof of us with invisible issues can relate to "just try harder" or "its not that difficult". The Situation for Folks with visibile disability isn't that much better. Sure there might be a ramp somewhere in the building, but its the responsiblity of the wheelchair user to find it.
 
-If ya want ya pride to be truely inclusive, ya can't stop and just put in some meassures, ya have to get to the peeps who need them and make sure they can access it.
+If ya& want ya& pride to be truely inclusive, ya& can't stop and just put in some meassures, ya& have to get to the peeps who need them and make sure they can access it.
 -->
 ---
 
@@ -844,7 +844,7 @@ If ya want ya pride to be truely inclusive, ya can't stop and just put in some m
 <img src="./img/memes/accessibility.png" class="center-img" height="47%">
 
 <!--
-Accesibility has to be a dialogue. That means ya have to openly communicate what ya can and cannot do, but also just listen to folks what they need. 
+Accesibility has to be a dialogue. That means ya& have to openly communicate what ya& can and cannot do, but also just listen to folks what they need. 
 Bonn is a great example here, unsurprisingly. They couldn't find a sign lang translator and communicated it openly. But it didn't stop there. Instead they realized through dialouge that they could just provide written speeches instead.
 
 Communication is the thing that enables me in the first place. A awareness person cannot do much if nobody knows who they are, how to find them, or what they can do. 
@@ -885,8 +885,8 @@ Blocks can be a a powerful tool to allocate help and protection where it is need
 Now a list of ideas and leasons too small to fill whole slide. Still useful to consider: 
 
 - Provide contact data - I had more than one pride where we couldn't reach anyone. And more than one I skipped because of that.
-- When setting up a route, check it with peeps like wheelchair users, visually impaired or ones with sensory issues. They can give great feedback what to avoid, things ya might have never considered. On top of which parts they need to skip.
-- In order for them to skip anything, ya should provide the route upfront, as well as the speeches. Yes, I'm also a person who finish things 10 minutes before the deadline ends, but giving the speeches upfront in textform really increases their reach.
+- When setting up a route, check it with peeps like wheelchair users, visually impaired or ones with sensory issues. They can give great feedback what to avoid, things ya& might have never considered. On top of which parts they need to skip.
+- In order for them to skip anything, ya& should provide the route upfront, as well as the speeches. Yes, I'm also a person who finish things 10 minutes before the deadline ends, but giving the speeches upfront in textform really increases their reach.
 - Keep exists open for those who need to get a break from the pride. Ideally also declare some quite zones, it doesn't have to be anything fancy but it would make pride easier for many folks.
 
 -->

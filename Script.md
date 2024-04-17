@@ -19,7 +19,7 @@ Since this is a talk about LGBTQ+ Protests and representation, sadly we have to 
 
 All of those topics are kept at an abstract level. Meaning, I will mention the existence of for example Medicalism, but I will not go into any details.
 
-I also used memes as one of the themes of this panel. If you prefer a more academic style, I'm sure you will find plenty of other interesting panels in this conference. And I genuinly want you to have a good time.
+I also used memes as one of the themes of this panel. If ya& prefer a more academic style, I'm sure ya& will find plenty of other interesting panels in this conference. And I genuinly want ya& to have a good time.
 
 ## Slide 3
 
@@ -545,4 +545,4 @@ It was a thing I wanted to do. Spending time with my queer, neurodivergent color
 
 ## Slide 64
 
-If there is one thing I want you to take from this panel its this: We will not achieve recknognition, if we don't occasionally stick our heads out and scream our existance into the world. Cause of that, I really hope that this year, I won't be the only plural flag on a pride. Thanks for listening.
+If there is one thing I want ya& to take from this panel its this: We will not achieve recknognition, if we don't occasionally stick our heads out and scream our existance into the world. Cause of that, I really hope that this year, I won't be the only plural flag on a pride. Thanks for listening.
